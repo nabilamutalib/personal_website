@@ -1,0 +1,59 @@
+table, tr, th, td
+{
+border: 2px solid black;
+border-collapse: collapse;
+}
+th,td
+{
+padding: 10px;
+}
+th
+{
+background-color: grey;
+}
+td
+{
+background-color: darkgrey;
+text-align: center;
+}
+h1
+{
+text-align: left;
+}
+body
+{
+background-color: mistyrose;
+}
+a:link, a:visited
+{
+color: black;
+background-color: lightpink;
+text-decoration: none;
+text-align: center;
+padding: 15px;
+display: inline-block;
+border-radius: 15px;
+}
+a:hover, a:active
+{
+color: purple;
+background-color: lightgrey;
+}
+h1
+{
+color: lightpink;
+background-color: maroon;
+font-family: Georgia;
+text-align: center;
+text-size-adjust: 24px;
+}
+p
+{
+text-align: center;
+font-family: Arial;
+text-size-adjust: 16px;
+}
+h2
+{
+text-align: center;
+}
